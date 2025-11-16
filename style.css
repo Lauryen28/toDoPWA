@@ -1,0 +1,24 @@
+/* Fundo com gradiente */
+body {
+  background: linear-gradient(135deg, #007bff, #6610f2);
+  min-height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Card com leve transparência */
+.card {
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 8px;
+}
+
+/* Lista estilizada */
+.list-group-item {
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+
+/* Título */
+h1 {
+  font-weight: bold;
+}
